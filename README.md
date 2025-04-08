@@ -3,6 +3,9 @@
 ## Purpose of the Project
 The `airbnb-geoviz` project visualizes Airbnb listings on an interactive map. It provides users with a geographical representation of Airbnb data, including details such as price, neighborhood, and descriptions. This project is designed to help users explore Airbnb listings in a user-friendly and visually engaging way.
 
+## Presentation (Basics of Geospatial Data Visualization -- Warmup to Demo)
+[Put it on the Map! -- Geospatial Data Visualization](https://docs.google.com/presentation/d/1Nh9o0rv3tToSq_c74iBuGAfx3dm8WJUidV1svQupBfY/edit?usp=sharing)
+
 ## Dataset
 The project uses a dataset containing Airbnb listings. The dataset includes the following columns:
 - **id**: Unique identifier for each listing.
